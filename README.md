@@ -8,23 +8,17 @@
 
 ## ⚡ Fun fact: My Software Engineering principles are:
 
-### T
-Test often
+### T - Test often
 
-### U 
-Understand the problem
+### U - Understand the problem
 
-### R 
-Research is key (a.k.a. Google it!)
+### R - Research is key (a.k.a. Google it!)
 
-### T 
-Teamwork and Collaboration makes the dream real
+### T - Teamwork and Collaboration makes the dream real
 
-### L 
-Listen and Learn
+### L - Listen and Learn
 
-### E 
-Even if I fail, I grow and that makes it worth the time.
+### E - Even if I fail, I grow and that makes it worth the time.
 
 
 <br/><br/>
