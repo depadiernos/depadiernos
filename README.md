@@ -14,7 +14,7 @@
 
 ### R - Research is key (a.k.a. Google it!)
 
-### T - Teamwork and Collaboration makes the dream real
+### T - Teamwork makes the dream work!
 
 ### L - Listen and Learn
 
