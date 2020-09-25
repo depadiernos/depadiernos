@@ -3,7 +3,7 @@
 ## Some things to know about me:
 - 🔭 I’m currently working on a CLI written in Go
 - 🌱 I’m currently learning Rust and Go Context Patterns
-- 💬 Ask me about the time when my punk band T.4t was gigging around NYC.
+- 💬 Ask me about the time when my punk rock band T.4t was gigging around NYC.
 - 😄 Pronouns: He/Him
 
 ## ⚡ Fun fact: My Software Engineering principles are:
